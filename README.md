@@ -1,4 +1,4 @@
-# multimodal_emotion_recognition
+# Improved Multi-modal Emotion Recognition using Squeeze-and-Exciation Block in Cross-Modal Attention
 This code is for the paper: Improved Multi-modal Emotion Recognition using Squeeze-and-Exciation Block in Cross-Modal Attention
 
 Abstract
